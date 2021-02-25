@@ -12,8 +12,9 @@
   "entitiesStores": [],
   "schemaVersion": "4.0",
   "studioVersion": "20.10.2.0",
-  "projectVersion": "1.0.0",
+  "projectVersion": "1.0.4",
   "runtimeOptions": {
+    "exceptionHandlerWorkflow": "Sequence1.xaml",
     "autoDispose": false,
     "isPausable": true,
     "requiresUserInteraction": true,
@@ -44,6 +45,12 @@
     {
       "filePath": "Main.xaml",
       "uniqueId": "e3246f06-424d-40bf-879f-a4643d6bd1ac",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "Sequence.xaml",
+      "uniqueId": "fee77f25-a565-4975-96c7-99e94afef7cb",
       "input": [],
       "output": []
     }
